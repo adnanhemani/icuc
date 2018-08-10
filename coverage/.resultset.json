@@ -1,7 +1,7 @@
 {
   "Cucumber Features": {
     "coverage": {
-      "/home/ubuntu/workspace/icuc/app/controllers/zernikes_controller.rb": [
+      "/home/ec2-user/repos/icuc/icuc/app/controllers/zernikes_controller.rb": [
         1,
         1,
         1,
@@ -53,16 +53,6 @@
         null,
         null,
         1,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
         4,
         4,
         null,
@@ -70,11 +60,6 @@
         0,
         null,
         4,
-        4,
-        null,
-        0,
-        0,
-        null,
         4,
         4,
         null,
@@ -108,7 +93,13 @@
         4,
         4,
         4,
+        null,
         4,
+        null,
+        4,
+        4,
+        null,
+        0,
         null,
         0,
         null,
@@ -117,6 +108,9 @@
         4,
         null,
         0,
+        null,
+        0,
+        null,
         null,
         4,
         4,
@@ -226,19 +220,19 @@
         null,
         null
       ],
-      "/home/ubuntu/workspace/icuc/app/controllers/application_controller.rb": [
+      "/home/ec2-user/repos/icuc/icuc/app/controllers/application_controller.rb": [
         1,
         null,
         null,
         1,
         null
       ],
-      "/home/ubuntu/workspace/icuc/app/helpers/application_helper.rb": [
+      "/home/ec2-user/repos/icuc/icuc/app/helpers/application_helper.rb": [
         1,
         1,
         null
       ],
-      "/home/ubuntu/workspace/icuc/app/models/zernike.rb": [
+      "/home/ec2-user/repos/icuc/icuc/app/models/zernike.rb": [
         1,
         null,
         1,
@@ -335,7 +329,7 @@
         null,
         null
       ],
-      "/home/ubuntu/workspace/icuc/app/uploaders/attachment_uploader.rb": [
+      "/home/ec2-user/repos/icuc/icuc/app/uploaders/attachment_uploader.rb": [
         1,
         null,
         null,
@@ -386,7 +380,7 @@
         null,
         null
       ],
-      "/home/ubuntu/workspace/icuc/app/controllers/concerns/matlab.rb": [
+      "/home/ec2-user/repos/icuc/icuc/app/controllers/concerns/matlab.rb": [
         1,
         1,
         null,
@@ -429,7 +423,7 @@
         4,
         4,
         4,
-        0,
+        null,
         0,
         null,
         null,
@@ -451,6 +445,6 @@
         null
       ]
     },
-    "timestamp": 1512265455
+    "timestamp": 1533882622
   }
 }
