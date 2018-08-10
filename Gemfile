@@ -86,4 +86,5 @@ gem 'delayed_job_active_record'
 # Q: Is the "beta1" necessary?
 gem "paperclip", "~> 5.0.0.beta1"
 gem 'carrierwave' # to upload files
+gem 'simplecov-cobertura'
 
